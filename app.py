@@ -371,4 +371,9 @@ else:
 
 st.markdown("---")
 st.markdown("Disclaimer: This dashboard is for educational purposes only and should not be considered financial advice. Stock market investing involves risks.")
-st.markdown("Developed with ❤️ by an AI Assistant using Streamlit, yfinance, and TensorFlow.")
+st.markdown("Developed by using Streamlit, yfinance, and TensorFlow.")
+st.markdown(
+    "🔗 <a href='https://github.com/srikanth-ankam' target='_blank'>GitHub Repository</a> | "
+    "© 2025 <b>Ankam Srikanth</b></center>",
+    unsafe_allow_html=True
+)
