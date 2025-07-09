@@ -42,3 +42,16 @@ bash
 ├── app.py               # Main Streamlit app
 ├── requirements.txt     # List of dependencies
 └── README.md            # Project documentation
+
+
+<h2><b>📁 SCREENSHOTS </b></h2>
+
+![Screenshot 1](https://github.com/user-attachments/assets/9947ed19-e291-4555-8608-1aaf16df19d4)
+
+![Screenshot 2](https://github.com/user-attachments/assets/512a6568-08c0-4521-8ef2-eef2fd6a98b4)
+
+![Screenshot 3](https://github.com/user-attachments/assets/35f8ad8e-f559-4c2c-9144-b42fbc5e5f72)
+
+![Screenshot 4](https://github.com/user-attachments/assets/e54a662c-c0fd-4c00-94ed-a3bd7f548bee)
+
+
