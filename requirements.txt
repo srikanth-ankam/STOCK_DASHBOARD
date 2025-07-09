@@ -1,7 +1,7 @@
 streamlit
 pandas==2.2.2
 yfinance
-numpy==1.26.4
+numpy==1.26.4  
 scikit-learn
-tensorflow==2.15.0 # Adjust this if you get Python/TensorFlow specific errors for other versions
+tensorflow==2.15.0 
 plotly
